@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Train_tickets</string>
+    <string-array name="cities">
+        <item>اختر الوجهه</item>
+        <item>الخرطوم</item>
+        <item>مدني</item>
+        <item>عطبره</item>
+        <item>الفاشر</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="الخرطوم"
+        android:id="@+id/krt_st"/>
+    <item
+        android:title="الجزيره"
+        android:id="@+id/jz_st"/>
+    <item
+        android:title="عطبره"
+        android:id="@+id/atb_st"/>
+    <item
+        android:title="الفاشر"
+        android:id="@+id/fa_st"/>
+
+
+
+
+</menu>
